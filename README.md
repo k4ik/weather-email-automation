@@ -11,7 +11,7 @@ Automate the process of retrieving weather data, generating reports, and emailin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/weather-email-automation.git
+git clone https://github.com/k4ik/weather-email-automation.git
 cd weather-email-automation
 ```
 
